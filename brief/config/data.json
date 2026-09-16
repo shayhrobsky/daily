@@ -1,0 +1,124 @@
+{
+  "date_long": "Wednesday, September 16, 2026",
+  "timezone_label": "Chicago, CT",
+  "today_weekday": "Wednesday",
+  "weekly_theme": "The Week of Fewer, Better Yeses",
+  "headline_sentence": "Three AI Employees discovery calls stack up around lunch today — and one of them is double-booked against your Scalable Services call. Worth sorting before 10:30.",
+
+  "revenue_goal_value": "Connecting Square…",
+  "revenue_goal_pct": 0,
+  "revenue_goal_note": "First live number lands in tomorrow's brief.",
+  "membership_goal_value": "0 / 100 members",
+  "membership_goal_pct": 0,
+  "membership_goal_note": "Pre-launch — update this once doors open.",
+  "days_left_2026": "106",
+  "days_left_note": "To hit $150K and 100 members.",
+
+  "first_thing": "<p><strong>House Call (Back of House), 10:30–11:45am CT.</strong> Mastermind support call — come with one clear question, not the whole list.</p>",
+  "one_big_thing": "<p>Turn at least one of today's three AI Employees calls — Nicole, Pennylyn, or Shyler — into a booked start date. Nicole's ready to invest if there's a payment plan.</p>",
+
+  "waiting_on_me": [
+    "Sample: Proposal sign-off waiting in your inbox — connect Gmail scanning in tomorrow's run to auto-populate this.",
+    "Sample: A contract or invoice needing your approval shows up here once Gmail/Drive scanning is wired in — calendar conflicts stay on the calendar card above, not duplicated here."
+  ],
+
+  "today_events": [
+    {"time": "10:30 AM", "title": "House Call (Back of House)", "meta": "Mastermind support call · Zoom"},
+    {"time": "12:00 PM", "title": "Nicole Woodard — AI Employees", "meta": "Discovery call · coaching/consulting biz, wants admin + inbox handed off, ready to invest", "flag": "OVERLAPS 12–1 CALL"},
+    {"time": "12:00 PM", "title": "Scalable Services Coaching Call", "meta": "Your coaching call · 12:00–1:00pm CT", "flag": "DOUBLE-BOOKED"},
+    {"time": "12:45 PM", "title": "Pennylyn Woosley — AI Employees", "meta": "Discovery call · $250–500K revenue, wants to hand off everything", "flag": "OVERLAPS 12–1 CALL"},
+    {"time": "2:30 PM", "title": "Shyler Landry — AI Employees", "meta": "Discovery call · $2M+ ecomm brand, full team, evaluating AI stack"},
+    {"time": "11:00 PM", "title": "Live Training: $10K/Month Newsletter", "meta": "Webinar you registered for — optional, skip if the day ran long"}
+  ],
+
+  "week_ahead": "<p><strong>Thursday opens up.</strong> “No calls” holds 9:15–11am and noon–12:45pm, with just one AI Employees call in between (Nichole Aragon, 11am). Best day this week for deep work, membership build-out, or the CEO Camp material.</p>",
+
+  "revenue_week_value": "—",
+  "revenue_mtd_value": "—",
+
+  "followup_flags": null,
+  "chase": [
+    "Nicole Woodard — send the AI Employees proposal within 24 hours; she said yes if there's a payment option.",
+    "Confirm which of today's overlapping 12pm calls gets rescheduled."
+  ],
+  "connect": [
+    "Shyler Landry works inside a $2M+ ecommerce team — worth a LinkedIn follow even if this call isn't the immediate fit.",
+    "Sample: reconnect with a dormant referral partner — wire up Gmail search to surface these automatically."
+  ],
+  "delegate": [
+    "Reschedule logistics for tomorrow's Nichole Aragon call — hand to your VA/OBM.",
+    "Webinar recording follow-up notes from tonight's newsletter training."
+  ],
+
+  "social_email_performance": "<p>Kit is connected but no stats pulled yet for this demo — tomorrow's run will show open/click rates on your latest broadcast and sequence performance here.</p>",
+  "colleague_competitor_watch": "<p>Names on file so far: Jamie C, Kathleen Cameron, Erin Claire Jones (Human Design educator, author of <em>How Do You Choose?</em>). I can't search your past chat history from this session — confirm which Kathleen Cameron you mean and who else belongs on the list, and I'll research and track all of them here each morning.</p>",
+
+  "marketing_ideas": [
+    "“I See You” post: name the exact moment before a business owner finally hires an AI Employee — that's your highest-converting content type per your brand guide.",
+    "Repurpose tonight's $10K/month newsletter training into a Thursday post on audience monetization, angled at your FB/Google Ads clients.",
+    "Soft-launch the membership with Room-Based content: “The women I'm talking to this week are all saying the same thing…” — builds curiosity before doors open."
+  ],
+
+  "content_calendar_today": "<p>Nothing logged yet — add what's publishing today in Viraly and note it here each morning (no direct integration available yet).</p>",
+
+  "ai_news": [
+    "ChatGPT Ads hit a $1B annualized revenue run rate and is expanding to India, Europe, the Middle East and North Africa — a new channel worth watching for ad clients.",
+    "Google is auto-upgrading campaigns to AI Max without announcing it, and Meta quietly removed placement exclusion controls — worth a quick check across client accounts.",
+    "Archive launched “Archie,” an AI agent built specifically for creator marketing campaigns — relevant talking point for your AI Employees pitch."
+  ],
+
+  "competitor_moves": [
+    "The Trade Desk launched an AI campaign agent and Sabio partnered with Gentoro on agentic ad automation — the “AI does the campaign” pitch is becoming the market norm, not a differentiator.",
+    "Sample: add named competitors here once you share who to track — I'll pull their recent launches and messaging shifts each morning."
+  ],
+
+  "trending_automation": [
+    "Agentic AI campaign agents shipped this week from Google, Meta and The Trade Desk — “AI runs the campaign” is becoming table stakes, not a differentiator.",
+    "Google is auto-upgrading accounts to AI Max without announcing it — worth flagging to clients before they notice a strategy shift they didn't approve."
+  ],
+  "trending_online": [
+    "ChatGPT Ads crossed a $1B annualized run rate and is expanding to India, Europe, the Middle East and North Africa — a new paid channel to watch.",
+    "Dario Amodei's call to slow frontier AI development (backed by Altman and Musk) is generating real debate — a timely content angle on responsible AI adoption for small business owners."
+  ],
+
+  "oracle_card_name": "Word of the Day: Discernment",
+  "oracle_card_meaning": "<p>Today has three near-identical calls stacked in one hour. Discernment isn't about doing more — it's choosing which yes actually deserves your energy today.</p>",
+
+  "human_design_note": "<p>You're a 4/6 Projector — built to see clearly and guide with precision, not to hustle through a packed morning. Today's triple-booked lunch is exactly the kind of thing your design asks you to <strong>not</strong> push through. Pick one call to give full presence to; let the others come back to you.</p>",
+
+  "astrology_headline": "Moon void until 11:41am CT",
+  "astrology_note": "<p>The Moon is void-of-course in Scorpio until 11:41am CT, then enters Sagittarius — trine Mars and Neptune. That's a direct hit on your natal Sagittarius 2nd house money channel. Translation: don't force decisions in the void this morning. Once the Moon shifts after 11:41, it's a genuinely good window to talk money.</p>",
+
+  "affirmation_text": "I don't have to say yes to every call to build the business I want. My calendar can say no on my behalf.",
+
+  "journal_prompt": "<p>Where in the business am I still saying yes to things I've already outgrown?</p>",
+
+  "energy_checkin": "<p>Rate today 1–10 before your first call. A packed lunch block asks for a real check — not a performative one.</p>",
+
+  "habits": [
+    {"label": "Morning pages", "done": false},
+    {"label": "Movement", "done": false},
+    {"label": "Water", "done": false},
+    {"label": "No phone before 8am", "done": false},
+    {"label": "CEO hour", "done": false}
+  ],
+
+  "weather_location": "Chicago, IL",
+  "weather_temp": "71°F",
+  "weather_condition": "Scattered storms, 90% chance of rain, humid",
+  "weather_outfit": "Layers plus a real waterproof jacket (umbrella won't cut it in this wind). Closed-toe shoes — today is not a sandals day between Zoom calls and errands.",
+
+  "family_calendar": "<p>Your Family Schedule &amp; Appointments calendar is clear for today. Nothing to prep for on the family side.</p>",
+  "meal_plan": "<p>Not set for today — add tonight's dinner plan here, or tell me your rotation and I'll keep this filled in.</p>",
+  "kids_schedule": "<p>Nothing on the family calendar for the kids today. Add practice times, pickups, or games here and I'll fold them into the timeline.</p>",
+
+  "yesterday_wins": [
+    "Sample: three new AI Employees bookings landed on the calendar — tell me what actually happened yesterday and I'll pull real wins from your calendar, email, and Square each morning."
+  ],
+
+  "is_friday": false,
+  "friday_ceo_prompt": "",
+
+  "generated_at": "Sep 16, 2026 · 6:03am CT",
+  "data_sources_note": "Live: Google Calendar, weather, AI news. Sample layout: revenue, social/email stats, competitor watch, content calendar, family/meal/kids — these populate live once wired up."
+}
