@@ -11,8 +11,11 @@
   "incarnation_cross": "Right Angle Cross of Maya (61/62 | 32/42)",
   "timezone": "America/Chicago",
   "colleagues_competitors": [
-    {"name": "Erin Claire Jones", "note": "Human Design educator, author of How Do You Choose?"},
-    {"name": "Kathleen Cameron", "note": "NEEDS CONFIRMATION — two public people share this name (exec coach vs. manifestation coach); confirm which, or neither, before treating either as a match"},
-    {"name": "Jamie C", "note": "NEEDS FULL NAME — unconfirmed"}
-  ]
+    {"name": "Erin Claire Jones", "type": "colleague", "url": "erinclairejones.com", "note": "Human Design educator, author of How Do You Choose?"},
+    {"name": "Kathleen Cameron", "type": "competitor", "url": "YouTube", "note": "Manifestation/money-mindset content (\"Is Manifestation a HOAX?\", \"MANIFEST MILLIONS\"). Pattern: big-claim headline + self-aware skepticism bait to disarm doubt, then a huge outcome word. Beatable because it stays abstract — no Tuesday, no bank account, no kid named."},
+    {"name": "Jamie Sea", "type": "competitor", "url": "thejamiesea.com", "note": "\"The secret to making your business THRIVE,\" nervous-system mechanism reveals delivered as an insider secret. Beatable because her mechanism talk stays in the body/feelings register and rarely lands on a concrete business action — Shay's voice can do both: name the feeling AND the next step."},
+    {"name": "Natalie Ellis / Bossbabe", "type": "competitor", "url": "mindyourbusinesspodcast.com", "note": "Founder-story vulnerability (\"My Biggest Business Regret, A Million Dollar Mistake\"). Beatable because it's vulnerability about herself, not about the buyer — Shay's edge is confessing what she SEES happening to the client, landing closer to \"how is she in my head.\""},
+    {"name": "Judith Manriquez", "type": "competitor", "url": "youarethedream.substack.com", "note": "Closest overlap. Soft reframes, gentle spiritual-affirmation headlines (\"I wasn't failing. I was developing.\"). Beatable because it's soothing, not confrontational — Shay's sharper, funnier, more direct voice owns the confrontational edge in this exact zone, uncontested."}
+  ],
+  "competitor_takeaway": "Every one of them stays either abstract-aspirational (Kathleen, Bossbabe) or soft-soothing (Judith, Jamie Sea's gentler moments). None combine a confrontational, specific, funny voice with real execution proof — that's genuinely unclaimed territory."
 }

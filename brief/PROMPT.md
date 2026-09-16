@@ -29,10 +29,13 @@ Timezone for all "today" boundaries: America/Chicago.
   like "Here's the truth about..." or "You're not X. You're Y.", grounded/warm/direct).
 - **Content calendar today** — no connector for Viraly exists. Keep as a manual-entry
   line unless Shay has supplied today's publishing schedule some other way.
-- **Colleague & competitor watch** — tracked names: Jamie C, Kathleen Cameron
-  (confirm which one), Erin Claire Jones (Human Design educator). Web search each for
-  anything new (launch, post, interview) in the last ~2 weeks. Add names only when Shay
-  supplies them — never guess who a name refers to.
+- **Colleague & competitor watch** — tracked list lives in `config/profile.json` →
+  `colleagues_competitors` (currently: Erin Claire Jones as colleague; Kathleen Cameron,
+  Jamie Sea, Natalie Ellis/Bossbabe, Judith Manriquez as competitors, each with a
+  positioning note from Shay's own market-map research). Web search each for anything
+  new (launch, post, interview) in the last ~2 weeks; if nothing new, say so plainly
+  rather than padding. Add names to that file only when Shay supplies them — never guess
+  who a name refers to.
 - **Social & email performance** — Kit (broadcast/sequence stats via
   `mcp__Kit__list_broadcasts` + `get_stats_for_a_broadcast`). If nothing sent recently,
   say so plainly.
