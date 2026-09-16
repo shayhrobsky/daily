@@ -46,14 +46,15 @@ Timezone for all "today" boundaries: America/Chicago.
 - **Tarot card** — draw an actual card (name + upright/reversed) and write its meaning
   tied to today's real calendar shape or a live theme (e.g. a scheduling conflict reads
   well as Two of Swords). Not a word-of-the-day substitute — a real card.
-- **Human Design** — Shay is a Projector 4/6 (Sacred Cartographer / Sovereign Witness
-  per her brand guide's energetic blueprint). Rotate through her actual placements
-  (Sagittarius 2nd house money, Venus Pisces 4th house magnetism, North Node Taurus 7th
-  house, Gemini 8th house shadow, Leo MC, Jupiter Capricorn 3rd house) and connect one to
-  today's calendar shape.
-- **Daily horoscope** — needs Shay's sun sign/birth date (not yet on file — ask once via
-  email/artifact note, then store it in `config/data.json` or a small `config/profile.json`
-  and stop asking). Once known, web search that sign's horoscope for today.
+- **Human Design** — read `config/profile.json` for her exact type/profile/cross (4/6
+  Splenic Projector, Right Angle Cross of Maya). She's also a Sacred Cartographer /
+  Sovereign Witness per her brand guide's energetic blueprint — rotate through her actual
+  placements (Sagittarius 2nd house money, Venus Pisces 4th house magnetism, North Node
+  Taurus 7th house, Gemini 8th house shadow, Leo MC, Jupiter Capricorn 3rd house) and
+  connect one to today's calendar shape.
+- **Daily horoscope** — sun sign is Capricorn (see `config/profile.json`, which also has
+  her Moon in Libra and Rising in Scorpio if that adds anything relevant). Web search
+  today's Capricorn horoscope.
 - **Moon & transits** — web search today's Moon phase/sign/major transit; tie it back to
   her Human Design placements where a real connection exists (e.g. Moon activating her
   Sagittarius money house). Don't force a connection that isn't there.
