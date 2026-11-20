@@ -95,12 +95,12 @@ cd brief && python3 render.py config/data.json out/YYYY-MM-DD.html
 ## 3. Deliver
 
 1. Publish the rendered file as a Claude Artifact (best rendering fidelity — fonts, grid,
-   dark mode all work there; email clients strip most of this).
-2. Send a short, warm email (Gmail, to shay.jordan@gmail.com) with the artifact link —
-   a few lines max, not the full content duplicated.
-3. Send a push notification with the link as well.
+   dark mode all work there).
+2. Send a push notification to Shay with a one-line summary of the day's shape (e.g.
+   "Heavy lunch block, one real conflict to sort" or "Open day — rare, use it well") and
+   the artifact link. This is the only delivery channel — no email.
 
-(Shay: adjust step 3's channels anytime — this is the default until you say otherwise.)
+(Shay: say the word if you ever want email added back or want push to carry more detail.)
 
 ## 4. Never
 
